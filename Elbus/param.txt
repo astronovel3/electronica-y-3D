@@ -1,0 +1,130 @@
+         1----------job to do: extract = 1, extract + solve = 2
+2
+         2----------focal distance in pixels
+344925
+         3----------language: spanish = 1 ; english = 0 ; french = 2
+1
+         4----------brightness threshold (double)
+0.9
+         5----------Min contours perimeter (integer)
+1
+         6----------Max contours perimeter (integer)
+100
+         7----------maxContours (integer) for analysis
+20
+         8----------stars to be selected (integer)
+10
+         9----------percent (integer) % error for distances search
+2
+         10--------- +/- error for inclination in degrees (integer)
+1
+         11---------width of the searching window in degrees (integer)
+5
+         12---------height of the searching window in degrees (integer)
+5
+         13---------Image path (text)
+C:\Users\Antonio\Desktop\SharpCap Captures\2025-09-15\Capture\00_34_12_Capture_00003 00_45_38.fits
+         14---------Image angle (double)
+83.91
+         15---------Distances database folder path (text)
+f:\ASTRONOMIA\Elbrus\Database\
+         16---------Stars and objects databases path (text)
+f:\ASTRONOMIA\Elbrus\Database\
+         17---------Last image file type = 'fit' or 'bmp' or 'jpg'
+fit
+         18---------object coordinates are in 0, 1, 2, 3, ... (integer)
+5
+         19---------automatic threshold (integer)
+1
+         20---------ring from DEC
+ 85 
+         21---------ring to DEC
+ 89 
+         22---------black visu for BMP
+3
+         23---------white visu for BMP
+144
+         24---------black visu for FIT
+306
+         25---------white visu for FIT
+2806
+         26---------ASCOM telescope
+ASCOM.Celestron.Telescope
+         27---------telescope to synchronize (integer)
+2
+         28---------searching centre (RA combo in hours) NOT USED
+ 
+         29---------(listIndex of RA combo in minutes) NOT USED
+ 
+         30---------(listIndex of DEC combo in degrees) NOT USED
+ 
+         31---------Image origin 
+0
+         32---------Image folder used in the 'WAIT FOR' automatic mode
+C:\Users\Antonio\
+         33---------minimal number of sides to stop the search
+20
+         34---------the image is reversed: 0 = NO, 1 = YES
+0
+         35---------minimal number of sides for auto synchronizing the telescope
+20
+         36---------Synchronize the telescope automatically
+1
+         37---------Show MessageBoxes: 0 = NO, 1 = YES
+1
+         38---------Synchronize the scope using current equinox coord
+1
+         39--------- not used (obsolete fixed angle search)
+1
+         40--------- search window type
+1
+         41--------- RA searching centre in combos (double)
+280.866666666667
+         42--------- DEC searching centre in combos (double)
+-38.75
+         43---------minimal number of sides for auto writing WCS in header
+20
+         44---------add WCS in FITS header automatically: 0 = NO, 1 = YES
+0
+         45--------- main window Top
+1170
+         46--------- main window Left
+7950
+         47--------- main window Width
+16875
+         48--------- main window Height
+11700
+         49--------- arcsec per pixel X
+0.598
+         50--------- arcsec per pixel Y
+0.598
+         51--------- Database number
+1
+         52--------- Observatory longitude
+3
+         53--------- Observatory latitude
+40
+         54--------- Observatory Time Zone
+0
+         55--------- Useful horizon 
+0
+         56--------- 1 = Show advises for guidance to the target
+1
+         57--------- Size of the Advices for guidance
+1
+         58--------- Mount type: 0 = equatorial, 1 = Alt-AZ
+0
+         59--------- 1 = search in the visible sky only
+0
+         60--------- 1= Target coordinates are J2000 equinox
+1
+         61--------- Display image un-zoomed 1, 2, 4 times
+2
+         62--------- 
+
+         63--------- 
+
+         64--------- 
+
+         65--------- 
+
